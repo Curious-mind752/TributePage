@@ -26,6 +26,7 @@ h3 {
    border-color: #F9FBFB;
     border-width: 5px;
     border-style: solid;
+  border-radius: 20px;
 }
 ul li { 
   font-family: monospace;
